@@ -1,6 +1,5 @@
 # Тестовое задание: React + TypeScript + Styled Components
 
-![Demo Screenshot](./demo-screenshot.png)
 
 Этот проект демонстрирует мои навыки работы с современным React-стеком:
 
