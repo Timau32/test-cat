@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &__wrap {
+    width: 400px;
+    box-shadow: 0px 1px 10px -1px #000;
+    border-radius: 4px;
+    padding: 15px;
+    transition: 0.3s all linear;
+  }
+
+  &__actions {
+    display: flex;
+    margin: 8px 0;
+    justify-content: space-between;
+  }
+}
